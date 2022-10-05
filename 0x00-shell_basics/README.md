@@ -10,4 +10,4 @@
 
 5-listmorefilesdigitonly : lists a file in long format with hidden files and user and group IDs
 
-6-firstdirectory : creates my_first_directory
+6-firstdirectory : creates dir /my_first_directory in dir /tmp
