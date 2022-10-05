@@ -21,3 +21,5 @@
 10-back : back to previous directory
 
 11-lists : lists current previous /boot at once
+
+12-file_type : gives the file type of iamafile
