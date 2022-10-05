@@ -19,3 +19,5 @@
 9-firstdirdeletion : deletes my_first_directory
 
 10-back : back to previous directory
+
+11-lists : lists current previous /boot at once
