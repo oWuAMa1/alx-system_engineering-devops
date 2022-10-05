@@ -11,3 +11,5 @@
 5-listmorefilesdigitonly : lists a file in long format with hidden files and user and group IDs
 
 6-firstdirectory : creates dir /my_first_directory in dir /tmp
+
+7-movethatfile : moves file betty to /tmp/my_first_directory
