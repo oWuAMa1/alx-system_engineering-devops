@@ -9,3 +9,5 @@
 4-listmorefiles : lists a file in long format with hidden files
 
 5-listmorefilesdigitonly : lists a file in long format with hidden files and user and group IDs
+
+6-firstdirectory : creates my_first_directory
