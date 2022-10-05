@@ -29,3 +29,5 @@
 14-copy_html : copy .html files on condition
 
 100-lets_move : moves files beginning with Uppercase
+
+101-clean_emacs : deletes files that end with ~
