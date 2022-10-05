@@ -25,3 +25,5 @@
 12-file_type : gives the file type of iamafile
 
 13-symbolic_link : creates a symbolic link to /bin/ls
+
+14-copy_html : copy .html files on condition
