@@ -15,3 +15,5 @@
 7-everybody : everybody has permission
 
 8-James_Bond : all permissions to others only
+
+9-John_Doe : another multiple permission
