@@ -21,3 +21,5 @@
 10-mirror_permissions : copy permissions of another file
 
 11-directories_permissions : execute permissions to subdirectories
+
+12-directory_permissions : create dir with mode
