@@ -7,3 +7,5 @@
 3-new_owner : changes owner
 
 4-empty : creates an empty file
+
+5-execute : gives owner execute permissions of file
