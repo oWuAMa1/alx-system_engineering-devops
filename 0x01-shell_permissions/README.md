@@ -5,3 +5,5 @@
 2-groups : prints all groups current user is in
 
 3-new_owner : changes owner
+
+4-empty : creates an empty file
