@@ -27,3 +27,5 @@
 13-change_group : change group
 
 100-change_owner_and_group : changes owner and group at once
+
+101-symbolic_link_permissions : change owner and group of sym .link itself
