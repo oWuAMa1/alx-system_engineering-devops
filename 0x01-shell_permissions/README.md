@@ -11,3 +11,5 @@
 5-execute : gives owner execute permissions of file
 
 6-multiple_permissions : gives mulltiple permissions
+
+7-everybody : everybody has permission
