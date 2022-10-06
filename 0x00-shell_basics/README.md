@@ -35,3 +35,5 @@
 102-tree : creates embedded directories
 
 103-commas : insert commas when listing contents
+
+school.mgc : magic file
