@@ -19,3 +19,5 @@
 9-John_Doe : another multiple permission
 
 10-mirror_permissions : copy permissions of another file
+
+11-directories_permissions : execute permissions to subdirectories
