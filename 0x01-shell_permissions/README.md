@@ -17,3 +17,5 @@
 8-James_Bond : all permissions to others only
 
 9-John_Doe : another multiple permission
+
+10-mirror_permissions : copy permissions of another file
