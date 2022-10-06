@@ -13,3 +13,5 @@
 6-multiple_permissions : gives mulltiple permissions
 
 7-everybody : everybody has permission
+
+8-James_Bond : all permissions to others only
