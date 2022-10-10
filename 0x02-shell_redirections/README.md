@@ -5,3 +5,4 @@
 4-lastlines : last ten lines of file
 5-firstlines : first ten lines of file
 6-third_line : display third line
+7-file : put best school in file
