@@ -9,3 +9,4 @@
 8-cwd_state : redirect ls -la cmd to a file
 9-duplicate_last_line : duplicates last line of file
 10-no_more_js : remove .js files in dir and subdir
+11-directories : count dir and subdir
