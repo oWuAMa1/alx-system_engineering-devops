@@ -20,3 +20,4 @@
 19-AZ : replace/translate characters
 20-hiago : remove specified char from input
 21-reverse : reverse string
+100-empty_casks : find empty files dir and subdir
