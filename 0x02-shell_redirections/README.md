@@ -4,3 +4,4 @@
 3-twofiles : cat etc/passwd etc/hosts
 4-lastlines : last ten lines of file
 5-firstlines : first ten lines of file
+6-third_line : display third line
