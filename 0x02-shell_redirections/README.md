@@ -21,3 +21,4 @@
 20-hiago : remove specified char from input
 21-reverse : reverse string
 100-empty_casks : find empty files dir and subdir
+101-gifs : show file, even hidden, with gif ext without paths
