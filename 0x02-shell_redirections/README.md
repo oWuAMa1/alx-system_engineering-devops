@@ -12,3 +12,4 @@
 11-directories : count dir and subdir
 12-newest_files : show 10 newest files
 13-unique : output words that appear exactly once
+14-findthatword : find patterns
