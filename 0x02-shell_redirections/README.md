@@ -18,3 +18,4 @@
 17-hidethisword : don't display this pattern
 18-letteronly : show lines of file that start with a letter insensitively
 19-AZ : replace/translate characters
+20-hiago : remove specified char from input
