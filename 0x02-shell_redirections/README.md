@@ -16,3 +16,4 @@
 15-countthatword : give number of matched patterns
 16-whatsnext : show n lines after matching
 17-hidethisword : don't display this pattern
+18-letteronly : show lines of file that start with a letter insensitively
