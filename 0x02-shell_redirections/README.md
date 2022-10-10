@@ -14,3 +14,4 @@
 13-unique : output words that appear exactly once
 14-findthatword : find patterns
 15-countthatword : give number of matched patterns
+16-whatsnext : show n lines after matching
