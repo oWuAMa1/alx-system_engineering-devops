@@ -7,3 +7,4 @@
 6-third_line : display third line
 7-file : put best school in file
 8-cwd_state : redirect ls -la cmd to a file
+9-duplicate_last_line : duplicates last line of file
