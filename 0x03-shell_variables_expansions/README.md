@@ -9,3 +9,4 @@
 9-divide_and_rule : arithmetic expansion
 10-love_exponent_breath : breath^love
 11-binary_to_decimal : binary to decimal
+12-combinations : brace expansion
