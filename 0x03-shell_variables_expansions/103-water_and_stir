@@ -1,2 +1,2 @@
 #!/bin/bash
-tr water 01234|tr stir. 01234| echo $((5#$WATER+5#$STIR))|tr 01234567 bestchol
+echo $((5#$WATER+5#$STIR))|tr water 01234|tr stir. 01234|printf '%o\n'|tr 01234567 bestchol
