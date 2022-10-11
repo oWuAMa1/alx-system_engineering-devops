@@ -7,3 +7,4 @@
 6-create_local_variable : set local var
 8-true_knowledge : arithmetic expansion
 9-divide_and_rule : arithmetic expansion
+10-love_exponent_breath : breath^love
