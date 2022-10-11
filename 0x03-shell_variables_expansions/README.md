@@ -4,3 +4,4 @@
 3-paths : count dirs in PATH
 4-global_variables : print env variables
 5-local_variables : print env,local var and functions
+6-create_local_variable : set local var
