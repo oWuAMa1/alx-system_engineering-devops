@@ -11,3 +11,4 @@
 11-binary_to_decimal : binary to decimal
 12-combinations : brace expansion
 13-print_float : show floating numbers
+100-decimal_to_hexadecimal : decimal to hexadecimal
