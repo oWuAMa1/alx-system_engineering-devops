@@ -14,3 +14,4 @@
 100-decimal_to_hexadecimal : decimal to hexadecimal
 101-rot13 : encryption by rotating alphabets 13 letters forward
 102-odd : print odd numbered lines
+103-water_and_stir : add two nums in env var WATER and STIR with base water and stir resp. result in base bestchol
