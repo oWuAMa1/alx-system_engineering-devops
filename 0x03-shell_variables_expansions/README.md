@@ -6,3 +6,4 @@
 5-local_variables : print env,local var and functions
 6-create_local_variable : set local var
 8-true_knowledge : arithmetic expansion
+9-divide_and_rule : arithmetic expansion
