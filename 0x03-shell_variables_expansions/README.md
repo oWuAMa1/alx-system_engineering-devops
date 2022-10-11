@@ -5,3 +5,4 @@
 4-global_variables : print env variables
 5-local_variables : print env,local var and functions
 6-create_local_variable : set local var
+8-true_knowledge : arithmetic expansion
